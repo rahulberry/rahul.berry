@@ -162,8 +162,6 @@ Typewriting init script
 ---------------------------------------------*/
 
 function Typewriting() {
-
-
 $(document).ready(function(){
 	setTimeout( function(){
 		if($("#site-type").length) {
@@ -171,16 +169,15 @@ $(document).ready(function(){
             strings: ["Imperial College London", "Second Year EEE with Management"],
             typeSpeed: 0,
             backDelay: 1000,
-            loop: false,
+            loop: true,
             contentType: 'html', // or text
             // defaults to false for infinite loop
-            loopCount: false,
+            loopCount: true,
         });
     }
 	}, 3000);
 });
 }
-
 
 /*-------------------------------------------
 Amazing Fade with scroll Sidebar
