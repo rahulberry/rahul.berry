@@ -378,13 +378,17 @@ CONTENT
 }
 
 .content .landing{
-  width: 1140px;
+  width: auto;
+  padding-left: 10%;
+  padding-right: 10%;
   margin-top: 150px;
   margin: 150px auto 0;
 }
 .content .landing h1{
+ 
   font-size:100px;
-  width:100%;
+  width:auto;
+  height: auto;
   margin-bottom: auto;
   text-transform:uppercase;
   color:#000000;
