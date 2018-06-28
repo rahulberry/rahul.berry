@@ -193,7 +193,7 @@ header.boxed{
 }
 
 header.boxed .header-margin{
-  width:1140px;
+  width:auto; 1140px;
   margin:0 auto;
 }
 
@@ -267,7 +267,7 @@ header a{
 }
 
 ul.header-nav{
-  width:60%;
+  width:auto; 60%;
   float:left;
 }
 
@@ -521,7 +521,7 @@ PORTFOLIO GRID
 #ajax-content{width:100%;}
 
 .portfolio-grid{
-  width:1170px;
+  width:auto; 1170px;
   position:relative;
   margin: 30px auto;
   overflow:hidden;
