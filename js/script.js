@@ -168,7 +168,7 @@ $(document).ready(function(){
         $(".typewrite span").typed({
             strings: ["Imperial College London", "Second Year EEE with Management"],
             typeSpeed: 0,
-            backDelay: 1000,
+            backDelay: 2500,
             loop: true,
             contentType: 'html', // or text
             // defaults to false for infinite loop
