@@ -51,6 +51,8 @@ PRELOADER
 **************************
 */
 
+
+
 .preloader{
   position:fixed;
   top:0;
@@ -686,6 +688,13 @@ input.button-submit{
   font-weight:900;
   line-height:40px;
   font-size:13px;
+}
+
+.centre {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
 }
 
 input:focus{
