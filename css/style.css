@@ -175,7 +175,9 @@ HEADER
 
 header.boxed{
   position:fixed;
-  width:100%;
+  width:auto;
+  padding-left: 10%;
+  padding-right: 10%;
   margin:0 auto;
   height:80px;
   z-index:9999;
