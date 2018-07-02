@@ -521,8 +521,8 @@ PORTFOLIO GRID
 #ajax-content{width:100%;}
 
 .portfolio-grid{
-  width:1170px;
-  position:relative;
+  width:auto;
+  position: relative;
   margin: 30px auto;
   overflow:hidden;
 }
