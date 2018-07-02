@@ -83,7 +83,7 @@ function Website() {
 		$('body').jKit();
 		backgroundmenu();
 		setTimeout(function(){
-			$(".preloader").fadeOut(500);							
+			$(".preloader").fadeOut(100);							
 		},2000);
 		setTimeout(function(){
 			$('header').fadeIn();							
